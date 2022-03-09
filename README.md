@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Guilherme Silva, @gssilva57. Living im Brazil, I have spent time in the USA.
+- 👋 Hi, I’m Guilherme Silva, @gssilva57. Living in Brazil, I've spent some time in the USA.
 - 👀 I’m interested in Python, Pandas, Numpy, scientific computattion, statistics.
 - 🌱 I’m currently learning Tensor Flow.
 - 💞️ I’m looking to collaborate on whatever I am able to.
 - 📫 How to reach me: email: gssilva57@gmail.com.
 
-I've been working on a site about math, physics, general discussion on science and skepticism.
+I've been working on a site about math, physics, general discussion on science and skepticism, and programming.
 
 🎇 You can reach it at <a href="https://phylos.net">phylos.net</a>
 
