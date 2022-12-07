@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Silva, @gssilva57. Living in Brazil, I've spent some time in the USA.
-- 👀 I’m interested in Python, Pandas, Numpy, SQL, scientific computing, statistics.
-- 🌱 I’m currently learning Tensor Flow and Ruby.
+- 👀 I’m interested in Python, Pandas, Numpy, Ruby, SQL, scientific computing, statistics.
+- 🌱 I’m currently learning Tensor Flow.
 - 💞️ I’m looking to collaborate on whatever I am able to.
 - 📫 How to reach me: email: gssilva57@gmail.com.
 
